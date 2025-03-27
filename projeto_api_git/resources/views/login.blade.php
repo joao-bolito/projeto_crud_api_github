@@ -12,6 +12,7 @@
         <form id="formCadastro" name="formulario" action="">
             <div class="input-box">
                 <input type="email" id="email" placeholder="insira seu email" required>
+                <p>teste</p>
             </div>
             <div class="input-box">
                 <input id="txtSenha" type="password" placeholder="Crie uma senha" minlength="5" required> <!-- minlength e maxlenght são usadas para limitar caracteres em um campo input-->
